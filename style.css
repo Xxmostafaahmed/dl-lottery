@@ -1,0 +1,292 @@
+/* .container-img img{
+  align-items: center;
+    justify-content: center;
+    margin-left: 10%;
+    margin-top: 100px;
+    width: 80%;
+    margin-top: -20px;
+    height: 250px;
+} */
+/* animation */
+
+/* .wrapper{
+  display: flex;
+  background: white;
+  margin-left: 18%;
+  border-radius: 9px;
+  width: 80%;
+  }
+  .wrapper .dynamic-txts{
+    margin-left: 15px;
+    height: 90px;
+    line-height: 90px;
+    overflow: hidden;
+  }
+  .dynamic-txts li{
+    list-style: none;
+    color: #FC6D6D;
+    font-size: 55px;
+    font-weight: 490px;
+    position: relative;
+    top: 0;
+    animation: slide 12s steps(4) infinite;
+  }
+  @keyframes slide {
+    100%{
+      top: -360px;
+    }
+  }
+  .dynamic-txts li span{
+    position: relative;
+    margin: 5px 0;
+    line-height: 90px;
+    margin-left: 100px;
+  }
+  .dynamic-txts li span::after{
+    content: "";
+    position: absolute;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: white;
+    border-left: 2px solid #FC6D6D;
+    animation: typing 3s steps(10) infinite;
+  }
+  @keyframes typing {
+    40%, 60%{
+      left: calc(100% + 30px);
+    }
+    100%{
+      left: 0;
+    }
+  }
+   */
+  /* for color  */
+  /* .navbar li {
+    text-decoration: none;
+    margin: 10px;
+    display: flex;
+   
+    float: left;
+
+  }
+  .color{
+    width: 30px;
+    height: 30px;
+    border: solid;
+    display: inline-block;
+    border-radius: 40%;
+  
+  }
+  #white{
+    background: white;
+  }
+  #gray{
+    background: gray;
+  }
+  #blue{
+    background: blue;
+  }
+  #yellow{
+    background: yellow;
+  } */
+  /* .container-img img{
+      align-items: center;
+      justify-content: center;
+      margin-left: 7%;
+      margin-top: 100px;
+      width: 84%;
+  } */
+  
+  
+  
+  /* .grid-four button {
+    margin: 260px 10px;
+    margin-left: 1%;
+    margin-top: 5px;
+    height: 110px;
+    width: 170px;
+    background-color: aquamarine;
+    border-radius: 12px;
+    border: solid;
+    border-color: #FC6D6D;
+    border: 1px solid;
+    padding: 5px;
+
+    box-shadow: 5px 5px 8px blue, 10px 10px 8px red, 15px 15px 8px green;
+  } */
+  
+
+
+  
+  /* .grid-four p{
+      font-size: 25px;
+      color: brown;
+      
+      margin-top: -50px;
+  }
+  select{
+    height: 40px;
+    width:175px;
+    color:brown;
+    font-size: 21px;
+    border-radius: 7px;
+    border: solid;
+    border-color: darkslategray;
+   
+  
+  }
+  .custom-select{
+    margin-top: -19px;
+  } */
+  /* for date  */
+  /* .btn1 p{
+      margin-top: -30px;
+  
+  }
+  .btn1 span{
+      font-size: 1px;
+     
+  }
+  .btn2 p{
+      margin-top: 1px;
+  
+  }
+  .btn2 span{
+      font-size: 25px;
+     
+  }
+  
+  .btn3 p{
+      margin-top: -1px;
+  
+  }
+  .btn3 span{
+      font-size: 25px;
+     
+  }
+  .btn4 p{
+    margin-top: 1px;
+  
+  }
+  .btn4 span{
+    font-size: 25px;
+   
+  } */
+  
+  /* table data  */
+  /* .table{
+
+    margin-top: 10px;
+  
+    width: 80%;
+    margin-left: 18%;
+  } */
+  
+  
+/* 
+  table {
+    border-collapse: collapse;
+   
+  }
+  
+  td, th {
+    border: 1px solid #999;
+    padding: 0.5rem;
+    text-align: left;
+    height: 50px;
+    width: 80px;
+    border: solid;
+    border-color: orange;
+  }
+   input{
+    height: 25px;
+    width: 12px;
+    background-color: white;
+    border-radius: 6px;
+    border: 3px solid darkgreen;
+  }
+  .firstline{
+    background-color: red;
+  }
+  .secondline{
+    background-color: indianred;
+  
+  }
+  .thirdline{
+    background-color: green;
+  
+  }
+  .fourthline{
+    background-color: blue;
+  
+  }
+  .fifthline{
+    background-color: orange;
+  
+  }
+  .sixline{
+    background-color: orangered;
+  
+  }
+  .sevenline{
+    background-color: deeppink;
+  
+  }
+   */
+  /* loging page  */
+  
+  /* .account input{
+    height: 30px;
+    width: 300px;
+    margin-top: 5px;
+    margin-left: 7%;
+    border-radius: 7px;
+  }
+  .account button{
+    height: 35px;
+    width: 70px;
+    margin-top: 5px;
+    border-radius: 7px;
+  }
+  
+
+  .buttonpart button{
+    height: 60px;
+    width: 160px;
+    border-radius: 10px;
+    border: solid;
+    border-color: darkviolet;
+    background-color: yellowgreen;
+    margin: 0px -130px;
+    margin-left: 18%;
+    margin-top: 5px;
+
+  } */
+
+  /* loader */
+
+
+
+/* #loading {
+  width: 100%;
+  height: 100vh;
+  position: fixed;
+  background:black
+   url('img/rollup.gif')
+    no-repeat center;
+  z-index: 9999;
+
+}
+
+.orn p{
+  margin-left: 18%;
+  color: chocolate;
+  font-size: 20px;
+}
+.orn span{
+  color: chartreuse;
+} */
+
+  
+  /* responsive part  */
